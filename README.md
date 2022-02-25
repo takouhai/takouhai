@@ -7,6 +7,8 @@
 * ⭐ digital storyteller.
 * 💚 huge nerd.
 
+currently SRE at @mdx-dev!
+
 ```js
 // 🌹 🇪🇨🇨🇴🇻🇪🌹
 // blm, acab, borders aren't real.
