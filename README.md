@@ -7,7 +7,7 @@
 * ⭐ digital storyteller.
 * 💚 huge nerd.
 
-currently SRE at @mdx-dev!
+currently SRE at [Sapphire Digital](github.com/mdx-dev)!
 
 ```js
 // 🌹 🇪🇨🇨🇴🇻🇪🌹
