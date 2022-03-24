@@ -9,7 +9,6 @@
 * 💚 huge nerd.
 
 ```js
-// 🌹 🇪🇨🇨🇴🇻🇪🌹
-// blm, acab, borders aren't real.
-// latino, hijo de la gran colombia
+// latino, hijo de la gran colombia.
+// borders aren't real.
 ```
