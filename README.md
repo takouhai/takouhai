@@ -9,6 +9,6 @@
 * 💚 huge nerd.
 
 ```js
-// latino, hijo de la gran colombia.
-// borders aren't real.
+// latino, hijo de la gran colombia. 🇪🇨🇨🇴🇻🇪
+// borders aren't real. 🗺️
 ```
