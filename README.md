@@ -11,5 +11,5 @@
 ```js
 // 🌹 🇪🇨🇨🇴🇻🇪🌹
 // blm, acab, borders aren't real.
-// latine, he/they.
+// latino, hijo de la gran colombia
 ```
