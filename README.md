@@ -1,13 +1,12 @@
 
 # daniel alejandro gallegos
 **pronouns:** *`he/him`* or *`they/them`*
-> a.k.a "takouhai", "taco", 🌮
+> a.k.a "daniel", "takouhai", "taco", 🌮
 
+* 💎 [sre](https://en.wikipedia.org/wiki/Site_reliability_engineering) @ [sapphire digital](https://getsapphire.com).
 * 🔮 code alchemist.
 * ⭐ digital storyteller.
 * 💚 huge nerd.
-
-currently SRE @ [Sapphire Digital](https://github.com/mdx-dev)!
 
 ```js
 // 🌹 🇪🇨🇨🇴🇻🇪🌹
