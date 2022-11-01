@@ -3,7 +3,7 @@
 **pronouns:** *`he/him`* or *`they/them`*
 > a.k.a "daniel", "takouhai", "taco", 🌮
 
-* 💎 [sre](https://en.wikipedia.org/wiki/Site_reliability_engineering) @ [zelis](https://zelis.com).
+* 💎 [sre](https://en.wikipedia.org/wiki/Site_reliability_engineering) @ [zelis](https://www.zelis.com).
 * 🔮 code alchemist.
 * ⭐ digital storyteller.
 * 💚 huge nerd.
